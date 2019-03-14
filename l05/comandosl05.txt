@@ -1,0 +1,48 @@
+    1  ld
+    2  ls
+    3  cd l05
+    4  cd L05
+    5  npm init
+    6  cd ..
+    7  ls
+    8  cd l05
+    9  ls
+   10  npm init
+   11  ls
+   12  touch index.js
+   13  ls
+   14  c9 index.js
+   15  npm install express --save
+   16  ls
+   17  cd public/
+   18  pwd
+   19  touch index.html
+   20  c9 index.html
+   21  cd ..
+   22  git add .
+   23  git commit -m "hola"
+   24  git remote add origin https://github.com/alvarocp16/sos1819-arreglo.git
+   25  git push https://github.com/gti-sos/sos1819-14-sandbox
+   26  git pull https://github.com/gti-sos/sos1819-14-sandbox
+   27  git add .
+   28  git commit -m "hola"
+   29  git push https://github.com/gti-sos/sos1819-14-sandbox
+   30  git pull https://github.com/gti-sos/sos1819-14-sandbox
+   31  git remote add origin https://github.com/alvarocp16/sos1819-arreglo.git
+   32  git remote remove origin https://github.com/gti-sos/sos1819-14-sandbox
+   33  git remote delete origin https://github.com/gti-sos/sos1819-14-sandbox
+   34  cd l02
+   35  git remote delete origin https://github.com/gti-sos/sos1819-14-sandbox
+   36  git remote remove origin https://github.com/gti-sos/sos1819-14-sandbox
+   37  git delete origin https://github.com/gti-sos/sos1819-14-sandbox
+   38  git remove origin https://github.com/gti-sos/sos1819-14-sandbox
+   39  git --help
+   40  git add .
+   41  git commit -m "bye"
+   42  git remote add origin https://github.com/alvarocp16/sos1819-arreglo.git
+   43  cd ..
+   44  git remote add origin https://github.com/alvarocp16/sos1819-arreglo.git
+   45  git push 
+   46  git push
+   47  cd l05
+   48  history > comandosl05.txt
